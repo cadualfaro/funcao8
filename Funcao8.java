@@ -1,8 +1,3 @@
-/*
-Atividade 5
-
-Criar uma função que recebe um inteiro N, e retorna um vetor de tamanho N com números aleatórios
- */
 package funcao8;
     import java.util.Scanner;
     import java.util.Random;
